@@ -22,11 +22,17 @@ O Google Analytics é uma ferramenta de análise de dados gratuita que ajuda a e
 ## Page Speed Insights
 
 ### Importância da Velocidade de Carregamento
+https://pagespeed.web.dev
+
 Avalia a velocidade de carregamento de um site em desktop e dispositivos móveis, fornecendo informações sobre as possíveis melhorias que podem ser feitas para otimizar a performance do site. Ele realiza uma análise detalhada do código da página, imagens, scripts, entre outros elementos, e oferece sugestões para melhorias, como compactação de arquivos, redução do tamanho de imagens e minificação de códigos CSS e Javascript. Com a otimização da velocidade de carregamento, é possível melhorar a experiência do usuário e também o posicionamento do site nos resultados de busca do Google, oferecendo sugestões de otimização como:
 - Compactação de arquivos.
 - Redução do tamanho de imagens.
 - Minificação de códigos CSS e JavaScript.
+
 Uma melhor velocidade de carregamento melhora a experiência do usuário e o posicionamento nos resultados de busca do Google.
+
+![image](https://github.com/LeonardoSuffi/SOUNET/assets/113109520/c3d73854-511a-471e-88c2-eb828a4872cc)
+
 
 ## Google Search Console
 
@@ -42,11 +48,14 @@ Com o Search Console, é possível acompanhar o desempenho do site nos resultado
 
 ### Benefícios do FAQ
 Um FAQ é uma ferramenta valiosa para melhorar o desempenho do seu site nos mecanismos de pesquisa. Ele aumenta a relevância da página ao fornecer respostas diretas para perguntas comuns, destacando-se nos resultados da pesquisa. As respostas rápidas correspondem às consultas dos usuários, aumentando a chance de exibição da sua página. Os trechos destacados e respostas claras também impulsionam a taxa de cliques nos resultados. Além disso, um FAQ bem organizado melhora a experiência do usuário, fornecendo informações rapidamente e estabelecendo a autoridade da página. Esses benefícios combinados aumentam a visibilidade do seu conteúdo e a interação dos usuários com o seu site.
+
 **Um FAQ bem organizado:**
 - Melhora a relevância da página.
 - Aumenta a taxa de cliques nos resultados de busca.
 - Melhora a experiência do usuário.
 - Estabelece a autoridade da página.
+
+![image](https://github.com/LeonardoSuffi/SOUNET/assets/113109520/84e3d7eb-d232-47cb-9267-70f0d7659fac)
 
 ## Markup de Organização
 
@@ -78,6 +87,9 @@ O markup de caixa de pesquisa sitelink é uma estratégia avançada de SEO que p
 ### Tag H1
 - É a mais importante aos olhos do Google e de todos os mecanismos de pesquisa pois ela representa o título da página e informar ao algoritmo do que se trata o conteúdo.
 
+![image](https://github.com/LeonardoSuffi/SOUNET/assets/113109520/e04ff6f0-7518-480c-a9a7-054cb3cfabde)
+
+
 ### Alt Text
 - É indispensável o uso do texto alternativo quando o objetivo é otimizar imagens da Web, principalmente para SEO. Afinal, é através do alt text que os mecanismos de busca têm mais contexto sobre a página que estão acessando, o que pode ajudar no ranqueamento da mesma. Isso porque o robô não “lê” imagens.  
 
@@ -94,7 +106,10 @@ O markup de caixa de pesquisa sitelink é uma estratégia avançada de SEO que p
 - Declarar o idioma na página é essencial para os mecanismos de busca entenderem o conteúdo e exibirem resultados relevantes aos usuários que falam esse idioma. Além disso, melhora a experiência do usuário e a acessibilidade para pessoas com deficiência, permitindo uma navegação mais precisa e personalizada. 
 
 ### Open Graph
-- É essencial para melhorar a presença da sua marca nas redes sociais. Ao adicionar metatags Open Graph ao seu site, você controla como o conteúdo é exibido em plataformas como Whatsapp, Facebook e Twitter, aumentando o engajamento, expandindo o alcance e promovendo uma identidade de marca consistente. 
+- É essencial para melhorar a presença da sua marca nas redes sociais. Ao adicionar metatags Open Graph ao seu site, você controla como o conteúdo é exibido em plataformas como Whatsapp, Facebook e Twitter, aumentando o engajamento, expandindo o alcance e promovendo uma identidade de marca consistente.
+
+![image](https://github.com/LeonardoSuffi/SOUNET/assets/113109520/68e18bb0-982e-438e-ac62-88e3e6802bca)
+
 
 ---
 
